@@ -1,0 +1,13 @@
+
+source 'https://rubygems.org'
+ruby '2.5.1'
+gem 'rspec'
+gem 'rubocop', '~> 0.57.2'
+gem 'pry'
+gem 'json'
+gem 'open-uri-s3'
+gem 'nokogiri'
+gem 'byebug'
+gem 'sinatra'
+gem 'shotgun'
+gem 'csv'
